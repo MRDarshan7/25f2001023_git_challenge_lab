@@ -1,6 +1,6 @@
 # Git Challenge Lab — Personal Profile Website
 
-A simple HTML profile website built as part of the Git/GitHub Challenge Lab.
+A simple HTML profile website built as part of the Git Challenge Lab.
 
 ## Pages
 - `home.html` — Home
